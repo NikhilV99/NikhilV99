@@ -72,6 +72,6 @@ Currently I design and develop ETL pipelines, data warehouses, metadata-driven i
 
 ## 📫 Connect with me
 
-LinkedIn: (your profile)
+LinkedIn: www.linkedin.com/in/nikhil-nverma
 
-Email: (your email)
+Email: nikhil.nverma99@gmail.com
